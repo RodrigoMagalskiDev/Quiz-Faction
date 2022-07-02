@@ -2,7 +2,6 @@
 
 App oficial da Expofred 2022 para a realização de pesquisas de satisfação com os frequentadores e expositores da feira.
 
-![img]https://i.imgur.com/IBhnUBE.png[/img]
 
 ## Sobre o app
 
@@ -11,6 +10,10 @@ App oficial da Expofred 2022 para a realização de pesquisas de satisfação co
   Para facilitar a coleta de dados e opiniões dos entrevistados, o Quiz Faction possibilita preencher formulários personalizados para cada tipo de entrevistado, funcionando de forma offline, sem a necessidade de conexão com a internet no momento da entrevista. O entrevistador abre o formulário desejado e então preenche-o com os dados coletados e após a finalização do questionário, o mesmo é salvo localmente no dispositivo, em um banco de dados Sqlite. Posteriormente, é possível fazer o envio dos formulários para um servidor em nuvem (Firebase) onde todos os formulários preenchidos ficam salvos.
   
   O grande diferencial deste app, é a possibilidade de criar formulários personalizados e trabalhar de forma offline na maior parte do tempo, realizando a sincronização dos dados, uma vez ao dia!
+  
+
+Abaixo, apresento algumas imagens ilustrativas sobre o app
+![login](https://user-images.githubusercontent.com/108557225/176982543-057b4cf6-9769-4de3-908d-1016402ec00d.png)![formularios](https://user-images.githubusercontent.com/108557225/176982620-cd4620f7-38c0-4729-9269-17997088c6b1.png)![questionario](https://user-images.githubusercontent.com/108557225/176982684-d0b0c863-af60-4470-9b67-c4259db9ad7f.png)![cadastro](https://user-images.githubusercontent.com/108557225/176982751-94c1543c-6d0a-4bd8-bd1f-f1f0379fc8d9.png)
   
 
 ## Recursos do app
@@ -28,4 +31,4 @@ App oficial da Expofred 2022 para a realização de pesquisas de satisfação co
   O app seguiu uma definição de projeto feita pelo grupo de pesquisadores, que passou a ideia principal, e através de algumas conversas, definimos a estrutura de funcionamento, gerenciamento e detalhes de layout.
   
   
-  Este foi meu primeiro projeto colocado em produção, onde pude aprender muito. Por falta de tempo do grupo de pesquisa, não puderam ser feitas muitas reuniões para definição do projeto, e ajustes de última hora no layout foram necessários ser realizados, por mudança na comissão organizadora. Porém, a estrutura permaneceu a mesma, e o objetivo final do app foi alcançado com sucesso!
+  Este foi meu primeiro projeto colocado em produção, onde pude aprender muito. Atualmente este aplicativo encontra-se desativado, por ter seu uso aplicado apenas durante a feira.
