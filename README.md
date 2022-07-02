@@ -2,6 +2,8 @@
 
 App oficial da Expofred 2022 para a realização de pesquisas de satisfação com os frequentadores e expositores da feira.
 
+![img](https://imgur.com/IBhnUBE)
+
 ## Sobre o app
 
   O Quiz Faction foi um app desenvolvido para atender a uma demanda de um grupo de pesquisadores da UFSM-FW (Universidade Federal de Santa Maria campus Frederico Westphalen - RS). Este grupo tinha por objetivo coletar dados de frequentadores e expositores da feira multissetorial da cidade de Frederico Westphalen, que fica na região norte do RS.
