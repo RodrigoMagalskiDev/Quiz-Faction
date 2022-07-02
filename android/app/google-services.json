@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098252454339",
+    "project_id": "expofred2022-c80a6",
+    "storage_bucket": "expofred2022-c80a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098252454339:android:dc1536f82bedb7fcaa1576",
+        "android_client_info": {
+          "package_name": "expofred2022.company.com.expofred_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098252454339-9kfobemr096k026bh3gari37ncskhgni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjVq1nd39FJR4Pej_Lmgknyn-HvjEBHRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098252454339-9kfobemr096k026bh3gari37ncskhgni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
