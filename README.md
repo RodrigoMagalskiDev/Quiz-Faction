@@ -2,7 +2,7 @@
 
 App oficial da Expofred 2022 para a realização de pesquisas de satisfação com os frequentadores e expositores da feira.
 
-[img]https://i.imgur.com/IBhnUBE.png[/img]
+![img]https://i.imgur.com/IBhnUBE.png[/img]
 
 ## Sobre o app
 
